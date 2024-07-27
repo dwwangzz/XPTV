@@ -122,6 +122,27 @@ payload:
 #同步数据
   - DOMAIN,gateway.icloud.com  
 #杂七杂八的播放
+  - DOMAIN-SUFFIX, m3u8.girigirilove.com
+  - DOMAIN-SUFFIX, cloudflarestorage.com
+  - DOMAIN-SUFFIX, ho7k.com
+  - DOMAIN-SUFFIX, dsakf23665.com
+  - DOMAIN-SUFFIX, 115.com
+  - DOMAIN-SUFFIX, mgtv.com
+  - DOMAIN-SUFFIX, timizy.com
+  - DOMAIN-KEYWORD, ghw9zwp5
+  - DOMAIN-SUFFIX, ywxohs.com
+  - DOMAIN-SUFFIX, miyoushe.com
+  - DOMAIN-KEYWORD, media-oss
+  - DOMAIN-SUFFIX, netease.com
+  - DOMAIN-SUFFIX, aliyuncs.com
+  - DOMAIN-SUFFIX, xmcdn.com
+  - DOMAIN-SUFFIX, anfuns.org
+  - DOMAIN-KEYWORD, hmrvideo
+  - DOMAIN-SUFFIX, ykusu.ykusu
+  - DOMAIN-SUFFIX, myqcloud.com
+  - DOMAIN-SUFFIX, esuxun.com
+  - DOMAIN-KEYWORD, duanjutt
+  - DOMAIN-KEYWORD, suxun
   - DOMAIN-KEYWORD, ffzy
   - DOMAIN-KEYWORD, cdnlz
   - DOMAIN-KEYWORD, lzcdn
